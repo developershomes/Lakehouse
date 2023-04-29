@@ -18,6 +18,10 @@ Building Lakehouse end to end with Delta Lake
 8. Optimization features associated with Delta Lake
 9. Create Lakehouse in Azure Data Lake Services or AWS S3 bucket
 
+# Resources 
+Jupyter Notebook: [Notebook](DeltaLake.ipynb)
+Sample Data: [Food.csv](food.csv)
+
 # Medium Blog on this
 https://medium.com/@developershome/lists
 

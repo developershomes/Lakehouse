@@ -1,4 +1,7 @@
 # Lakehouse
+
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/118063572/235283492-d47a68e2-44dc-4c90-ae2d-f9284cf4adbe.png">
+
 Build End to  End Lakehouse using below famouse data formats 
 <ul>
 <li>Delta Lake</li>
@@ -59,3 +62,6 @@ https://developershome.blog/?s=lakehouse
 
 # Youtube Video on this 
 https://www.youtube.com/@developershomeIn/playlists
+
+# LinkedIn 
+https://www.linkedin.com/in/shahkalpan09/

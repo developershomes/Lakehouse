@@ -1,6 +1,8 @@
 # Lakehouse
 Building Lakehouse end to end with Delta Lake 
 
+<img width="285" alt="image" src="https://user-images.githubusercontent.com/118063572/235283262-aa30155d-e183-4c19-97ff-24927cfb3879.png">
+
 # Delta Lake: An Introduction to a High-Performance Data Management System
 
 1. Create Delta tables by reading data stored in CSV file formats 
